@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pendaftaran02</string>
+    <string name="gender_prompt">Choose a gender</string>
+
+    <string-array name="gender_list">
+        <item>Choose Gender</item>
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
